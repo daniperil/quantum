@@ -7,3 +7,13 @@ Why are we actually interested in simulation? Simulations of quantum systems can
 And why is simulating something like a molecule so hard to do? Molecules are made up of atoms like Hydrogen (H), Oxygen (O), Nitrogen (N) and so on. Those atoms are themselves made up of protons, neutrons and electrons. In order to simulate a molecule, we need to think about every single electron, their position, their interaction among each other and any forces acting on the molecule. Storing all of this requires a huge amount of computer memory
 "Nature isn't classical, dammit, and if you want to make a simulation of nature, you'd better make it quantum mechanical. 
 Richard Feynman (1981), physicist and Nobel Prize laureate (1965)
+
+Optimization:
+
+We read and hear, that quantum computing will be useful at a range of tasks. One of them is optimization, which is the problem of finding the best solution from all possible solutions. Optimization problems are common in business. For example, you might want to find the optimal portfolio of financial assets (lowest cost, highest return, least risk, or some combination of these factors that you care about). Or you might want to figure out the best way to deliver packages. In this case, “best” might mean shortest time or lowest fuel cost or some combination of the two. To get a feeling for why optimization problems are a huge challenge for conventional computers, let's consider a particular optimization problem...
+
+Machine Learning:
+
+Essentially in machine learning, the computer learns about specific parameters. These can be the number of red, blue, green or yellow dots in our hexapawn game. But this can also be the rotations of gates in a quantum circuit. This is one way to do quantum machine learning. Quantum machine learning is an active field of research, so we expect new approaches popping up in the future.
+
+One area where QML is definitely ahead is when we look problems where the data is not from a classical but quantum in itself. Then a quantum computer is here to shine as recently demonstrated by researchers in an experiment that analyzed quantum data from the physical world.
