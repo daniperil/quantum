@@ -1,5 +1,10 @@
 # quantum
 
+If you are a newbie I hightly recommend that you watch these videos first:
+1. Quantum Computers Explained – Limits of Human Technology by Kurzgesat - In a Nutshell   https://www.youtube.com/watch?v=JhHMJCUmq28 
+2. Quantum Computers, Explained With Quantum Physics by Quanta Magazine    https://www.youtube.com/watch?v=jHoEjvuPoB8
+3. The Map of Quantum Computing | Quantum Computers Explained by Domain of Science  https://www.youtube.com/watch?v=-UlxHPIEVqA 
+
 Simulations: 
 
 Why are we actually interested in simulation? Simulations of quantum systems can help examine properties, structure, and behaviour of something like a molecule. This way they can help us, for example, develop new and more efficient materials for batteries leading to more efficient mobility. Understand the chemical processes involved in the process of fertilizer production could support finding a process that uses way less energy. And for drug research, scientists would be able to investigate these drugs without actually creating them in a lab synthetically.
