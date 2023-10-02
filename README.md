@@ -15,8 +15,10 @@ It is important that you understand three things in order to comprehend quantum 
 Quantum algorithms:
 
 *Shor's algorithm:
-*Grover's algorithm:
 
+*Grover's algorithm: Search algorithm.
+*(QAOA) Quantum Approximate Optimization Algorithm: Heuristic algorithm
+*(VQE) Variational Quantum Eigen: Hybrid algorithm.
 
 
 Simulations: 
