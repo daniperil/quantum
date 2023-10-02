@@ -3,7 +3,21 @@
 If you are a newbie I hightly recommend that you watch these videos first:
 1. Quantum Computers Explained – Limits of Human Technology by Kurzgesat - In a Nutshell   https://www.youtube.com/watch?v=JhHMJCUmq28 
 2. Quantum Computers, Explained With Quantum Physics by Quanta Magazine    https://www.youtube.com/watch?v=jHoEjvuPoB8
-3. The Map of Quantum Computing | Quantum Computers Explained by Domain of Science  https://www.youtube.com/watch?v=-UlxHPIEVqA 
+3. The Map of Quantum Computing | Quantum Computers Explained by Domain of Science  https://www.youtube.com/watch?v=-UlxHPIEVqA
+
+It is important that you understand three things in order to comprehend quantum computing:
+1. Superposition: Refers to the unique property of quantum bits or qubits that allows them to exist in multiple states simultaneously. (Being the states 1 or 0)
+2. Entanglement:
+3. Interference: 
+
+**Remember a Qubit is really described by a Quantum Wavefunction. 
+
+Quantum algorithms:
+
+*Shor's algorithm:
+*Grover's algorithm:
+
+
 
 Simulations: 
 
