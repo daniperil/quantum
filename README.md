@@ -20,6 +20,16 @@ Quantum algorithms:
 *(QAOA) Quantum Approximate Optimization Algorithm: Heuristic algorithm
 *(VQE) Variational Quantum Eigen: Hybrid algorithm.
 
+Name	Function	Application	Proven	Speedup
+Shor	Factorization	Break the RSA encryption	Yes	Super Polynomial
+Grover	Search	Bitcoin mining, quadratic speedups for NP hard problems	Yes	Polynomial
+HHL (Harrow-Hassidim-Lloyd)	Solve linear equations	Machine Learning, PDE's (Partial Differential Equations)	Yes	Super Polynomial
+VQE (Variationl Quantum Eigensolver)	Find molecular ground state	Manufacturing, material science	No	Unknown
+QAOA (Quantum Approximate Optimization Algorithm)	Find Hamiltonian ground state	Discrete Optimization Problems	No	Unknown
+QSVT (Quantum Singular Value Transformation)	Linear Algebra Transformations	Many Problems, Including Signal Processing	Yes	Depends on Application
+QML (Quantum Machine Learning)	Machine Learning	Machine Learning	Partially	Depends on Algorithm
+![image](https://github.com/daniperil/quantum/assets/24758279/98cc1b69-56e6-4d36-a735-aef72aa36c5e)
+
 
 Simulations: 
 
