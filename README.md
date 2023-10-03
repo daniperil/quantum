@@ -28,6 +28,19 @@ Steps to build Quantum Applications:
 3. Implement the quantum logic into concrete quantum gates
 4. Review the results and modify the implementation.
 
+In quantum computing, an "oracle function" refers to a specific type of quantum operation. Oracles are used to encode problem-specific information into the quantum state and provide a way for the quantum algorithm to access and manipulate this information. (The Oracle is defined in the Expression section for the Classiq IDE)
+
+**The size is the number of qubits we allocate to encode the number. 
+
+The Oracle has the effect of tagging the correct Quantum States. 
+Amplitude Amplification: Amplify the amplitude of tagged States while suppressing others.
+
+In the Right Hand side in the box "Number of Repetitions" is where you put the amount of times you want Amplitude Amplification to be repeated. 
+
+Information about the AerSimulatior: https://qiskit.org/ecosystem/aer/stubs/qiskit_aer.AerSimulator.html
+
+
+
 Simulations: 
 
 Why are we actually interested in simulation? Simulations of quantum systems can help examine properties, structure, and behaviour of something like a molecule. This way they can help us, for example, develop new and more efficient materials for batteries leading to more efficient mobility. Understand the chemical processes involved in the process of fertilizer production could support finding a process that uses way less energy. And for drug research, scientists would be able to investigate these drugs without actually creating them in a lab synthetically.
