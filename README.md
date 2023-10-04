@@ -39,6 +39,11 @@ In the Right Hand side in the box "Number of Repetitions" is where you put the a
 
 Information about the AerSimulatior: https://qiskit.org/ecosystem/aer/stubs/qiskit_aer.AerSimulator.html
 
+The hardware for quantum computing must contain at least one single qubit gate and one two qubit gate. Name is qpu.
+Josephson effect is a phenomenon that occurs when two superconductors are placed in proximity, with some barrier or restriction between them.
+The Josephson effect produces a current, known as a supercurrent, that flows continuously without any voltage applied, across a device known as a Josephson junction (JJ). These consist of two or more superconductors coupled by a weak link. The weak link can be a thin insulating barrier (known as a superconductor–insulator–superconductor junction, or S-I-S), a short section of non-superconducting metal (S-N-S), or a physical constriction that weakens the superconductivity at the point of contact (S-c-S).
+
+Circuit depth is the number of gates performed on a qubit.
 
 
 Simulations: 
