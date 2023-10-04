@@ -45,6 +45,14 @@ The Josephson effect produces a current, known as a supercurrent, that flows con
 
 Circuit depth is the number of gates performed on a qubit.
 
+Because gate are not perfect each gate operation introduces errors. 
+
+These errors are called Noise.
+
+Two qubit gates typically have more Noise than one qubit gate.
+
+The current state of quantum computing[1] is referred to as the noisy intermediate-scale quantum (NISQ) era,[2] characterized by quantum processors containing up to 1000 qubits which are not advanced enough yet for fault-tolerance or large enough to achieve quantum supremacy.
+
 
 Simulations: 
 
