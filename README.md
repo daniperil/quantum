@@ -53,6 +53,16 @@ Two qubit gates typically have more Noise than one qubit gate.
 
 The current state of quantum computing[1] is referred to as the noisy intermediate-scale quantum (NISQ) era,[2] characterized by quantum processors containing up to 1000 qubits which are not advanced enough yet for fault-tolerance or large enough to achieve quantum supremacy.
 
+Examples of States:
+
+First State: (0.1 * |00> + 0.2 * |01> + 0.3 * |10> + 0.4 * |11>)
+
+This state is a superposition of the basis states |00>, |01>, |10>, and |11>. The coefficients (0.1, 0.2, 0.3, 0.4) represent the probability amplitudes associated with each basis state. This state is in a superposition of all four basis states with different probabilities.
+
+Second State: |10>
+
+This state represents the basis state |10>, which corresponds to the decimal number 2 in binary notation. In quantum notation, |10> typically represents the state where the first qubit is in state |1> (i.e., spin up) and the second qubit is in state |0> (i.e., spin down).
+
 
 Simulations: 
 
